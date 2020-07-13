@@ -5,7 +5,7 @@
 ### About me  
   
  -  I am a first year computer engineering undergrad at **Zakir hussain college of Engineering,Aligarh Muslim University**.
- -  I am a **Full stack Web Devloper**, an enthusiastic **Competitive coder** and a budding **machine learning enthusiast**.
+ -  I am a **Full stack Web Developer**, an enthusiastic **Competitive coder** and a budding **machine learning enthusiast**.
 
 ### What I DO
 
@@ -17,9 +17,9 @@
 
 - 📫 How to reach me: 
 
-[Gmail](https://mail.google.com/mail/u/0/#inbox)
+     1)[Gmail](https://mail.google.com/mail/u/0/#inbox)
 
-[LinkedIn](https://www.linkedin.com/in/faiz-alam-79a845197/)
+     2)[LinkedIn](https://www.linkedin.com/in/faiz-alam-79a845197/)
   
 
 
