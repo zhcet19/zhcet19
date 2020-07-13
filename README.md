@@ -16,9 +16,10 @@
 - 👯 I’m looking to collaborate on **open source projects**.
 
 - 📫 How to reach me: 
-*[Gmail](https://mail.google.com/mail/u/0/#inbox)
 
-*[LinkedIn](https://www.linkedin.com/in/faiz-alam-79a845197/)
+[Gmail](https://mail.google.com/mail/u/0/#inbox)
+
+[LinkedIn](https://www.linkedin.com/in/faiz-alam-79a845197/)
   
 
 
