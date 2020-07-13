@@ -1,16 +1,22 @@
-### Hi there 👋
 
-<!--
-**zhcet19/zhcet19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### About me  
+ -  Hi there 👋 I'am Faiz .
+ -  I am a first year computer engineering undergrad at **Zakir hussain college of Engineering,Aligarh Muslim University**.
+ -  I am a **Full stack Web Devloper**, an enthusiastic **Competitive coder** and a budding **machine learning enthusiast**.
+
+
+*= 🔭 I’m currently working on many **MERN stack projects**,**COMPETITIVE PROGRAMMING** and **DATA SCIENCE**.
+
+*= 🌱 I’m currently learning **Machine learning** and **Data science**.
+
+*= 👯 I’m looking to collaborate on **open source projects**.
+
+*= 📫 How to reach me: 
+
+ [Gmail](https://mail.google.com/mail/u/0/#inbox)
+ [LinkedIn](https://www.linkedin.com/in/faiz-alam-79a845197/)
+  
+
+
