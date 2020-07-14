@@ -1,8 +1,7 @@
 
    **Hi there 👋 I'am Faiz .**
    
-   
-  ![Alt text](https://i.pinimg.com/originals/dc/ab/22/dcab22f4cfd2c666ecc0352d25647132.jpg)   
+<img src="https://i.pinimg.com/originals/dc/ab/22/dcab22f4cfd2c666ecc0352d25647132.jpg" alt="homescreen" width="500"/> 
 
 
 
