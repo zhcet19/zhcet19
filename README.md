@@ -14,7 +14,7 @@
 
 - 🔭 I’m currently working on many **MERN stack projects**,**COMPETITIVE PROGRAMMING** and **DATA SCIENCE**.
 
-- 🌱 I’m currently learning **Machine learning**, **Data science** and **React""
+- 🌱 I’m currently learning **Machine learning**, **Data science** and **React**
 
 - 👯 I’m looking to collaborate on **open source projects**.
 
