@@ -23,7 +23,7 @@
 <img align="left" alt="EJS" width="40px" src="https://raw.githubusercontent.com/tkswann2/tech-logos/master/ejs.png" />
 <img align="left" alt="Jquery" width="40px" src="https://raw.githubusercontent.com/tkswann2/tech-logos/master/jquery.png" />
 <img align="left" alt="Node JS" width="30px" src="https://raw.githubusercontent.com/github/explore/master/topics/nodejs/nodejs.png" />
-<img align="left" alt="Express JS" width="40px" src="https://raw.githubusercontent.com/tkswann2/tech-logos/master/express.png" />
+<img align="left" alt="Express JS" width="40px" height="30px"src="https://raw.githubusercontent.com/tkswann2/tech-logos/master/express.png" />
 <img align="left" alt="React JS" width="30px" src="https://raw.githubusercontent.com/tkswann2/tech-logos/master/react.png" />
 <img align="left" alt="Semantic UI" width="30px" src="http://semantic-ui.com/images/logo.png" />
 <img align="left" alt="Cpp" width="30px" src="https://raw.githubusercontent.com/github/explore/master/topics/cpp/cpp.png" />
