@@ -36,7 +36,7 @@
 <img align="left" alt="Git" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/git/git.png" />
 <img align="left" alt="Heroku" width="30px" src="https://raw.githubusercontent.com/tkswann2/tech-logos/master/heroku.jpg" />
 <img align="left" alt="Wordpress" width="30px" src="https://github.com/tomchen/stack-icons/blob/master/logos/wordpress-icon.svg" />
-<img align="left" alt="Unity Game engine" width="40px" src="https://wiki.loopme.cool/images/thumb/3/3d/Unity.png/800px-Unity.png" />
+<img align="left" alt="Unity Game engine" width="50px" src="https://wiki.loopme.cool/images/thumb/3/3d/Unity.png/800px-Unity.png" />
 
 <br />
 <br />
