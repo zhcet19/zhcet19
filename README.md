@@ -30,6 +30,9 @@
 <img align="left" alt="C" width="30px" src="https://github.com/tomchen/stack-icons/blob/master/logos/c.svg" />
 <img align="left" alt="JavaScript" width="30px" src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png" />
 <img align="left" alt="Python" width="30px" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png" />
+<br />
+<br />
+<hr />
 
 
 ### Tools and other stuff
@@ -40,10 +43,9 @@
 <img align="left" alt="Heroku" width="40px" src="https://raw.githubusercontent.com/tkswann2/tech-logos/master/heroku.jpg" />
 <img align="left" alt="Wordpress" width="40px" src="https://github.com/tomchen/stack-icons/blob/master/logos/wordpress-icon.svg" />
 <img align="left" alt="Unity Game engine" width="40px" src="https://wiki.loopme.cool/images/thumb/3/3d/Unity.png/800px-Unity.png" />
-
-
 <br />
 <br />
+<hr />
 
 
 
