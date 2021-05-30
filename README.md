@@ -61,5 +61,5 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zhcet19&show_icons=true&layout=compact&theme=tokyonight )](https://github.com/anuraghazra/github-readme-stats)
 
 
-[website]: https://zhcet19.github.io/
+[website]: https://faizalam.tech/
 [linkedin]: https://www.linkedin.com/in/faiz-alam-79a845197/
