@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning game development.
 - 👯 I’m looking to collaborate with other developers and learn more.
-- 🥅 2020 Goals: Contribute more to Open Source projects and excel in competitive coding.
+- 🥅 2021 Goals: Contribute more to Open Source projects and excel in competitive coding.
 
 
 ### Connect with me:
