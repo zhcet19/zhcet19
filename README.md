@@ -2,7 +2,7 @@
 
 ## I'm a Sophomore at Aligarh muslim university, an avid competitive coder, webdeveloper, and enthusiastic learner.
 
-- 🌱 I’m currently learning game development.
+- 🌱 I’m currently working as Technical Content Writer at GeeksforGeeks and Full Stack Developer at Unmazer.ai.
 - 👯 I’m looking to collaborate with other developers and learn more.
 - 🥅 2021 Goals: Contribute more to Open Source projects and excel in competitive coding.
 
