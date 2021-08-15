@@ -1,6 +1,6 @@
 ### Hi there, I'm Faiz 👋
 
-## I'm a Sophomore at Aligarh muslim university, an avid competitive coder, webdeveloper, and enthusiastic learner.
+## I'm a Pre final year student at Aligarh muslim university, an avid competitive coder, webdeveloper, and enthusiastic learner.
 
 - 🌱 I’m currently working as Technical Content Writer at GeeksforGeeks and Full Stack Developer at Unmazer.ai.
 - 👯 I’m looking to collaborate with other developers and learn more.
