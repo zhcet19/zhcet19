@@ -58,7 +58,10 @@
 
 # statistics
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=zhcet19&show_icons=true)  
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zhcet19&show_icons=true&layout=compact&theme=tokyonight )](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub metrics](https://metrics.lecoq.io/zhcet19)  
 
 
 [website]: https://faizalam.tech/
