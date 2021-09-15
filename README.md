@@ -26,6 +26,7 @@
 <img align="left" alt="Express JS" width="40px" height="30px"src="https://raw.githubusercontent.com/tkswann2/tech-logos/master/express.png" />
 <img align="left" alt="React JS" width="30px" src="https://raw.githubusercontent.com/tkswann2/tech-logos/master/react.png" />
 <img align="left" alt="Semantic UI" width="30px" src="http://semantic-ui.com/images/logo.png" />
+<img align="left" alt="Material UI" width="30px" src="http://semantic-ui.com/images/logo.png" />
 <img align="left" alt="Cpp" width="30px" src="https://raw.githubusercontent.com/github/explore/master/topics/cpp/cpp.png" />
 <img align="left" alt="C" width="30px" src="https://github.com/tomchen/stack-icons/blob/master/logos/c.svg" />
 <img align="left" alt="JavaScript" width="30px" src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png" />
@@ -43,6 +44,7 @@
 <img align="left" alt="Heroku" width="40px" src="https://raw.githubusercontent.com/tkswann2/tech-logos/master/heroku.jpg" />
 <img align="left" alt="Wordpress" width="40px" src="https://github.com/tomchen/stack-icons/blob/master/logos/wordpress-icon.svg" />
 <img align="left" alt="Unity Game engine" width="40px" height="30px"src="https://wiki.loopme.cool/images/thumb/3/3d/Unity.png/800px-Unity.png" />
+<img align="left" alt="Firestore" width="40px" height="30px"src="https://img.icons8.com/color/48/0000/firebase.png" />
 <br />
 <br />
 <hr />
