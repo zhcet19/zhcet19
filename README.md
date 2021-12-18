@@ -2,7 +2,7 @@
 
 ## I'm a Pre final year student at Aligarh muslim university, an avid competitive coder, webdeveloper, and enthusiastic learner.
 
-- 🌱 I’m currently working as Technical Content Writer at GeeksforGeeks and Full Stack Developer at Unmazer.ai.
+- 🌱 I’m currently working as Front End Developer at Xtreme Technologies.
 - 👯 I’m looking to collaborate with other developers and learn more.
 - 🥅 2021 Goals: Contribute more to Open Source projects and excel in competitive coding.
 
