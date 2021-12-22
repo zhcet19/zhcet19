@@ -26,7 +26,7 @@
 <img align="left" alt="Express JS" width="40px" height="30px"src="https://raw.githubusercontent.com/tkswann2/tech-logos/master/express.png" />
 <img align="left" alt="React JS" width="30px" src="https://raw.githubusercontent.com/tkswann2/tech-logos/master/react.png" />
 <img align="left" alt="Semantic UI" width="30px" src="http://semantic-ui.com/images/logo.png" />
-<img align="left" alt="Material UI" width="30px" src="http://semantic-ui.com/images/logo.png" />
+<img align="left" alt="Material UI" width="30px" src="http://material-ui.com/images/logo.png" />
 <img align="left" alt="Cpp" width="30px" src="https://raw.githubusercontent.com/github/explore/master/topics/cpp/cpp.png" />
 <img align="left" alt="C" width="30px" src="https://github.com/tomchen/stack-icons/blob/master/logos/c.svg" />
 <img align="left" alt="JavaScript" width="30px" src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png" />
