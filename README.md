@@ -2,7 +2,7 @@
 
 ## I'm a Pre final year student at Aligarh muslim university, an avid competitive coder, webdeveloper, and enthusiastic learner.
 
-- 🌱 I’m currently working as Front End Developer at Xtreme Technologies.
+- 🌱 I’m currently hibernating.
 - 👯 I’m looking to collaborate with other developers and learn more.
 - 🥅 2022 Goals: Contribute more to Open Source projects and excel in competitive coding.
 
