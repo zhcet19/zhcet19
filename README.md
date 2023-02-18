@@ -2,9 +2,8 @@
 
 ## I'm a Pre final year student at Aligarh muslim university, an avid competitive coder, webdeveloper, and enthusiastic learner.
 
-- 🌱 I’m currently working as SDE Intern at PropReturns ( YC S21)
 - 👯 I’m looking to collaborate with other developers and learn more.
-- 🥅 2022 Goals: Contribute more to Open Source projects and excel in competitive coding.
+- 🥅 2023 Goals: Contribute more to Open Source projects and excel in competitive coding.
 
 
 ### Connect with me:
