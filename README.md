@@ -58,6 +58,7 @@ A restaurant management app with animation-rich UI and full-stack capabilities.
 
 - 🥇 **ICPC Amritapuri Regionals 2020** – All India Rank **512**
 - 🥈 **CodeChef Nov Long Challenge** – Global Rank **511**
+- 🥉 **Runner-up at MumbaiHacks 2024** - World Biggest GENAI Hackathone
 
 ---
 
