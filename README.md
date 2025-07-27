@@ -1,72 +1,83 @@
-### Hi there, I'm Faiz 👋
+# 👋 Hi there, I'm Faiz Alam
 
-## I'm a Software Developer Based in Delhi procifient in MERN Stack , Flutter and AWS 
+I'm a passionate Software Developer specializing in backend development and cloud solutions. With experience across startups and enterprise projects, I build scalable, maintainable systems using modern technologies. Currently leading the backend team at a major healthtech project in the US 🇺🇸.
 
-- 👯 I’m looking to collaborate with other developers and learn more.
-- 🥅 2023 Goals: Contribute more to Open Source projects and excel in competitive coding.
+---
 
+## 💼 Work Experience
 
-### Connect with me:
+### 🏥 Hexaview Technologies — *Backend Engineer*  
+**Jan 2023 – Present**  
+Tech Stack: Node.js, AWS, DynamoDB, Redis, Serverless, SQS  
+- Leading backend for a top US healthtech startup  
+- ⚡️ Optimized DynamoDB latency by 30% via local secondary indexes  
+- 🚀 Boosted performance by 40% using Redis-based caching  
+- 🏗️ Engineered multitenancy for 25% better resource utilization  
+- 📬 Built event-driven architecture using AWS SQS
 
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+### ✨ Aibiliti — *Software Consultant*  
+Tech Stack: Node.js, AWS, LangChain, LLMs  
+- Built MVP platform for scalable marketing content generation with LLMs  
+- 🧠 Fine-tuned LLMs with guardrails to increase accuracy by 20% and reduce inference time by 15%
 
+### 🏢 PropReturns (YC S21) — *SDE Intern*  
+Tech Stack: Node.js, Next.js, Tailwind, AWS, Mixpanel  
+- Turned 5+ wireframes into production-ready UI  
+- 📈 Increased product reach by 30% by integrating Mailmodo and WhatsApp APIs  
+- 🛠️ Refactored AWS Lambda code to improve efficiency by 20%
 
-<br />
+---
 
-### Languages and Libraries:
+## 💻 Projects
 
-<img align="left" alt="HTML5" width="40px" src="https://raw.githubusercontent.com/tkswann2/tech-logos/master/html5.png" />
-<img align="left" alt="CSS" width="30px" src="https://raw.githubusercontent.com/tkswann2/tech-logos/master/css3.png" />
-<img align="left" alt="Bootstrap" width="30px" src="https://raw.githubusercontent.com/tkswann2/tech-logos/master/bootstrap.png" />
-<img align="left" alt="EJS" width="40px" height="20px" src="https://raw.githubusercontent.com/tkswann2/tech-logos/master/ejs.png" />
-<img align="left" alt="Jquery" width="40px" height="30px" src="https://raw.githubusercontent.com/tkswann2/tech-logos/master/jquery.png" />
-<img align="left" alt="Node JS" width="30px" src="https://raw.githubusercontent.com/github/explore/master/topics/nodejs/nodejs.png" />
-<img align="left" alt="Express JS" width="40px" height="30px"src="https://raw.githubusercontent.com/tkswann2/tech-logos/master/express.png" />
-<img align="left" alt="React JS" width="30px" src="https://raw.githubusercontent.com/tkswann2/tech-logos/master/react.png" />
-<img align="left" alt="Semantic UI" width="30px" src="http://semantic-ui.com/images/logo.png" />
-<img align="left" alt="Material UI" width="30px" src="https://mui.com/static/logo.png" />
-<img align="left" alt="Cpp" width="30px" src="https://raw.githubusercontent.com/github/explore/master/topics/cpp/cpp.png" />
-<img align="left" alt="C" width="30px" src="https://github.com/tomchen/stack-icons/blob/master/logos/c.svg" />
-<img align="left" alt="JavaScript" width="30px" src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png" />
-<img align="left" alt="Python" width="30px" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png" />
-<br />
-<br />
-<hr />
+### [📱 USSD-Based Payment App](#)  
+*Java, VOIP USSD, Android*  
+Facilitated offline payments using USSD protocols, designed for underserved regions.
 
+### [🧪 Virtual Lab for AMU](https://github.com/zhcet19/Aligarh-Muslim-University-VLAB)  
+*Node.js, Express.js, MongoDB, D3.js, MathJax*  
+Built a virtual lab platform supporting assignments, quizzes, simulations, and live sessions.
 
-### Tools and other stuff
-<img align="left" alt="Mongo DB" width="30px" src="https://img.icons8.com/color/48/000000/mongodb.png" />
-<img align="left" alt="NPM" width="30px" height="30px"src="https://github.com/tomchen/stack-icons/blob/master/logos/npm.svg" />
-<img align="left" alt="Moongoose" width="40px" height="30px" src="https://raw.githubusercontent.com/tkswann2/tech-logos/master/mongoose.png" />
-<img align="left" alt="Git" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/git/git.png" />
-<img align="left" alt="Heroku" width="40px" src="https://raw.githubusercontent.com/tkswann2/tech-logos/master/heroku.jpg" />
-<img align="left" alt="Wordpress" width="40px" src="https://github.com/tomchen/stack-icons/blob/master/logos/wordpress-icon.svg" />
-<img align="left" alt="Unity Game engine" width="40px" height="30px"src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrRCmUOAQgmlNkjWfxpK_h4ra8i8UUZYeH_g&usqp=CAU" />
-<img align="left" alt="Firestore" width="40px" height="30px"src="https://img.icons8.com/color/48/0000/firebase.png" />
-<img align="left" alt="AWS" width="40px" height="30px"src="https://raw.githubusercontent.com/get-icon/geticon/fc0f660daee147afb4a56c64e12bde6486b73e39/icons/aws.svg" />
-<img align="left" alt="Nextjs" width="40px" height="30px"src="https://raw.githubusercontent.com/get-icon/geticon/fc0f660daee147afb4a56c64e12bde6486b73e39/icons/nextjs-icon.svg" />
+### [🍽️ Ristorante Confusion](https://ristorantconfusion.netlify.app/)  
+*React, Redux Thunk, MUI*  
+A restaurant management app with animation-rich UI and full-stack capabilities.
 
-<br />
-<br />
-<hr />
+---
 
+## 🚀 Skills
 
+**Languages:** C++, JavaScript, Python, Dart, Java  
+**Frontend:** React, Vue, Flutter, HTML, CSS, Tailwind, TypeScript  
+**Backend:** Node.js, Express.js, Serverless  
+**Databases:** DynamoDB, MongoDB, MySQL, Redis  
+**DevOps & Tools:** AWS, GCP, Git, Jira, LangChain, LangGraph
 
+---
 
-![](https://komarev.com/ghpvc/?username=zhcet19&label=PROFILE+VIEWS)
-<br />
-<br />
-<hr />
+## 🏆 Achievements
 
+- 🥇 **ICPC Amritapuri Regionals 2020** – All India Rank **512**
+- 🥈 **CodeChef Nov Long Challenge** – Global Rank **511**
 
-# statistics
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=zhcet19&show_icons=true)  
+---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zhcet19&show_icons=true&layout=compact&theme=tokyonight )](https://github.com/anuraghazra/github-readme-stats)
+## 🎓 Education
 
-![GitHub metrics](https://camo.githubusercontent.com/cce028f6880b762c1ae0f57b05e1800f13c11b9fc9d87559f10d225d77f270f5/68747470733a2f2f6d6574726963732e6c65636f712e696f2f7a686365743139)  
+**B.Tech in Computer Engineering**  
+Aligarh Muslim University (2019 – 2023)  
+**CGPA: 9.2 / 10**  
+Coursework: DSA, DBMS, Operating Systems, CN, Cloud Computing
 
+---
 
-[website]: https://faizalam.tech/
-[linkedin]: https://www.linkedin.com/in/faiz-alam-79a845197/
+## 🔗 Let's Connect
+
+📧 [faizamu19@gmail.com](mailto:faizamu19@gmail.com)  
+🔗 [LinkedIn](https://www.linkedin.com/in/faiz-alam-79a845197)  
+🐙 [GitHub](https://github.com/zhcet19)  
+💡 [LeetCode](https://leetcode.com/FAIZAMU19)  
+📄 [Resume](https://drive.google.com/file/d/1DkWYCyoFHOh2L3SRjIWtIYVoDKT095ZJ/view?usp=sharing)
+
+---
+
+⭐️ *If you like my work, feel free to star the repositories and follow me for updates!*
