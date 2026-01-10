@@ -1,13 +1,19 @@
 # 👋 Hi there, I'm Faiz Alam
 
-I'm a passionate Software Developer specializing in backend development and cloud solutions. With experience across startups and enterprise projects, I build scalable, maintainable systems using modern technologies. Currently leading the backend team at a major healthtech project in the US 🇺🇸.
+I'm a passionate Software Developer specializing in backend development and cloud solutions. With experience across startups and enterprise projects, I build scalable, maintainable systems using modern technologies. Currently working as a growth engineer at WithCoverage 🇺🇸.
 
 ---
 
 ## 💼 Work Experience
 
+
+### 🏥 WithCovergage — *Growth Engineer*  
+**Sep 2025 – Present**  
+Tech Stack: Node.js, AWS, DynamoDB, Redis, Serverless, SQS  
+
+
 ### 🏥 Hexaview Technologies — *Backend Engineer*  
-**Jan 2023 – Present**  
+**Jan 2023 – Aug 2025**  
 Tech Stack: Node.js, AWS, DynamoDB, Redis, Serverless, SQS  
 - Leading backend for a top US healthtech startup  
 - ⚡️ Optimized DynamoDB latency by 30% via local secondary indexes  
@@ -82,3 +88,4 @@ Coursework: DSA, DBMS, Operating Systems, CN, Cloud Computing
 ---
 
 ⭐️ *If you like my work, feel free to star the repositories and follow me for updates!*
+
