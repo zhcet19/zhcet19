@@ -7,7 +7,7 @@ I'm a passionate Software Developer specializing in backend development and clou
 ## 💼 Work Experience
 
 
-### 🏥 WithCovergage — *Growth Engineer*  
+### 🏥 WithCoverage — *Growth Engineer*  
 **Sep 2025 – Present**  
 Tech Stack: Node.js, AWS, DynamoDB, Redis, Serverless, SQS  
 
@@ -88,4 +88,5 @@ Coursework: DSA, DBMS, Operating Systems, CN, Cloud Computing
 ---
 
 ⭐️ *If you like my work, feel free to star the repositories and follow me for updates!*
+
 
