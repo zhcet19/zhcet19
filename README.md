@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Faiz Alam
 
-I'm a passionate Software Developer specializing in backend development and cloud solutions. With experience across startups and enterprise projects, I build scalable, maintainable systems using modern technologies. Currently working as a growth engineer at WithCoverage 🇺🇸.
+I'm a passionate Software Developer specializing in backend development and cloud solutions. With experience across startups and enterprise projects, I build scalable, maintainable systems using modern technologies. Currently working as a growth engineer at WithCoverage 🇺🇸. Previously worked at Oriserve.ai , Propreturns YC S21 and also some independent consulting
 
 ---
 
@@ -44,10 +44,6 @@ Facilitated offline payments using USSD protocols, designed for underserved regi
 *Node.js, Express.js, MongoDB, D3.js, MathJax*  
 Built a virtual lab platform supporting assignments, quizzes, simulations, and live sessions.
 
-### [🍽️ Ristorante Confusion](https://ristorantconfusion.netlify.app/)  
-*React, Redux Thunk, MUI*  
-A restaurant management app with animation-rich UI and full-stack capabilities.
-
 ---
 
 ## 🚀 Skills
@@ -88,5 +84,6 @@ Coursework: DSA, DBMS, Operating Systems, CN, Cloud Computing
 ---
 
 ⭐️ *If you like my work, feel free to star the repositories and follow me for updates!*
+
 
 
