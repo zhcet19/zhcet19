@@ -80,6 +80,7 @@ Coursework: DSA, DBMS, Operating Systems, CN, Cloud Computing
 🐙 [GitHub](https://github.com/zhcet19)  
 💡 [LeetCode](https://leetcode.com/FAIZAMU19)  
 📄 [Resume](https://drive.google.com/file/d/1DkWYCyoFHOh2L3SRjIWtIYVoDKT095ZJ/view?usp=sharing)
+🔗 [Portfolio](https://faizalam.dev)  
 
 ---
 
