@@ -9,7 +9,7 @@ I'm a passionate Software Developer specializing in backend development and clou
 
 ### 🏥 WithCoverage — *Growth Engineer*  
 **Sep 2025 – Present**  
-Tech Stack: Node.js, AWS, DynamoDB, Redis, Serverless, SQS  
+Tech Stack: Node.js , Python , GTM tools ( Clay , Zoominfo , Apollo , Crustdata ) , Web Crawlers 
 
 
 ### 🏥 Hexaview Technologies — *Backend Engineer*  
