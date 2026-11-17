@@ -7,12 +7,12 @@ I'm a passionate Software Developer specializing in backend development and clou
 ## 💼 Work Experience
 
 
-### 🏥 WithCoverage — *Growth Engineer*  
+### WithCoverage — *Growth Engineer*  
 **Sep 2025 – Present**  
 Tech Stack: Node.js , Python , GTM tools ( Clay , Zoominfo , Apollo , Crustdata ) , Web Crawlers 
 
 
-### 🏥 Hexaview Technologies — *Backend Engineer*  
+### Hexaview Technologies — *Backend Engineer*  
 **Jan 2023 – Aug 2025**  
 Tech Stack: Node.js, AWS, DynamoDB, Redis, Serverless, SQS  
 - Leading backend for a top US healthtech startup  
@@ -21,12 +21,12 @@ Tech Stack: Node.js, AWS, DynamoDB, Redis, Serverless, SQS
 - 🏗️ Engineered multitenancy for 25% better resource utilization  
 - 📬 Built event-driven architecture using AWS SQS
 
-### ✨ Aibiliti — *Software Consultant*  
+### Aibiliti — *Software Consultant*  
 Tech Stack: Node.js, AWS, LangChain, LLMs  
 - Built MVP platform for scalable marketing content generation with LLMs  
 - 🧠 Fine-tuned LLMs with guardrails to increase accuracy by 20% and reduce inference time by 15%
 
-### 🏢 PropReturns (YC S21) — *SDE Intern*  
+### PropReturns (YC S21) — *SDE Intern*  
 Tech Stack: Node.js, Next.js, Tailwind, AWS, Mixpanel  
 - Turned 5+ wireframes into production-ready UI  
 - 📈 Increased product reach by 30% by integrating Mailmodo and WhatsApp APIs  
